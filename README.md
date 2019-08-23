@@ -2,6 +2,7 @@
 
 
 
+![image](https://user-images.githubusercontent.com/17534654/63594806-1ea47d80-c5c0-11e9-85c6-b07372ccb09e.png)
 
 
 The game consists of 10 frames as shown above.  In each frame the player has
